@@ -1,0 +1,19 @@
+{
+  "name": "my-old-js-tests",
+  "version": "1.0.0",
+  "description": "old js tests for myself",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darekf77/my-old-js-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darekf77/my-old-js-tests/issues"
+  },
+  "homepage": "https://github.com/darekf77/my-old-js-tests#readme"
+}
