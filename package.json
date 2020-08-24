@@ -1,4 +1,22 @@
 {
+  "tnp": {
+    "resources": [],
+    "overrided": {
+      "linkedFolders": [],
+      "ignoreDepsPattern": [
+        "*"
+      ],
+      "includeAsDev": [],
+      "includeOnly": [],
+      "dependencies": {}
+    },
+    "linkedProjects": [],
+    "libReleaseOptions": {
+      "nodts": false,
+      "obscure": false,
+      "ugly": false
+    }
+  },
   "name": "my-old-js-tests",
   "version": "1.0.0",
   "description": "old js tests for myself",
@@ -15,5 +33,7 @@
   "bugs": {
     "url": "https://github.com/darekf77/my-old-js-tests/issues"
   },
-  "homepage": "https://github.com/darekf77/my-old-js-tests#readme"
+  "homepage": "https://github.com/darekf77/my-old-js-tests#readme",
+  "dependencies": {},
+  "devDependencies": {}
 }
