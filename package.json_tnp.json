@@ -1,0 +1,20 @@
+{
+  "version": "v2",
+  "type": "isomorphic-lib",
+  "resources": [],
+  "overrided": {
+    "linkedFolders": [],
+    "ignoreDepsPattern": [
+      "*"
+    ],
+    "includeAsDev": [],
+    "includeOnly": [],
+    "dependencies": {}
+  },
+  "linkedProjects": [],
+  "libReleaseOptions": {
+    "nodts": false,
+    "obscure": false,
+    "ugly": false
+  }
+}
