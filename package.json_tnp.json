@@ -1,7 +1,7 @@
 {
+  "resources": [],
   "version": "v2",
   "type": "isomorphic-lib",
-  "resources": [],
   "overrided": {
     "linkedFolders": [],
     "ignoreDepsPattern": [
@@ -17,5 +17,13 @@
     "obscure": false,
     "ugly": false
   },
-  "private": true
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": "old js tests for myself",
+  "license": "ISC",
+  "author": "",
+  "homepage": "https://github.com/darekf77/my-old-js-tests#readme",
+  "main": "app.js"
 }
