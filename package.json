@@ -40,7 +40,7 @@
     "url": "git+https://github.com/darekf77/my-old-js-tests.git"
   },
   "author": "",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/darekf77/my-old-js-tests/issues"
   },
@@ -280,5 +280,5 @@
     "zone.js": "0.10.2"
   },
   "devDependencies": {},
-  "private": false
+  "private": true
 }
