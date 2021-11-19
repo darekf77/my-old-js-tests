@@ -25,5 +25,6 @@
   "license": "ISC",
   "author": "",
   "homepage": "https://github.com/darekf77/my-old-js-tests#readme",
-  "main": "app.js"
+  "main": "app.js",
+  "workerPlugins": {}
 }
