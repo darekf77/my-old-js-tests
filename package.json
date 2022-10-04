@@ -27,12 +27,12 @@
     "author": "",
     "homepage": "https://github.com/darekf77/my-old-js-tests#readme",
     "main": "app.js",
-    "workerPlugins": {}
+    "workerPlugins": {},
+    "linkedRepos": []
   },
   "name": "my-old-js-tests",
   "version": "1.0.2",
   "description": "old js tests for myself",
-  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -275,8 +275,5 @@
     "zone.js": "0.10.2"
   },
   "devDependencies": {},
-  "private": true,
-  "recreatedFrom": {
-    "tnp.json": true
-  }
+  "private": true
 }
