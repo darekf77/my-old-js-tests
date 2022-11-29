@@ -28,7 +28,9 @@
     "homepage": "https://github.com/darekf77/my-old-js-tests#readme",
     "main": "app.js",
     "workerPlugins": {},
-    "linkedRepos": []
+    "linkedRepos": [],
+    "smartContainerTarget": "",
+    "smartContainerBuildTarget": ""
   },
   "name": "my-old-js-tests",
   "version": "1.0.2",
