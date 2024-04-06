@@ -20,6 +20,7 @@
       "ugly": false,
       "cliBuildNoDts": false,
       "cliBuildObscure": false,
+      "cliBuildUglify": false,
       "cliBuildIncludeNodeModules": false
     },
     "version": "v2",
@@ -46,5 +47,6 @@
   "author": "",
   "homepage": "https://github.com/darekf77/my-old-js-tests#readme",
   "name": "my-old-js-tests",
-  "version": "0.0.0"
+  "version": "0.0.0",
+  "main": "app.js"
 }
